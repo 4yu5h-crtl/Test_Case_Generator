@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Subtle page background similar to mock */
+body {
+  @apply bg-slate-50;
+}
+
+
