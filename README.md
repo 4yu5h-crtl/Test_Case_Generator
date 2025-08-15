@@ -29,7 +29,7 @@ A full-stack application that automatically generates comprehensive test cases f
 │   (Next.js)     │◄──►│   (FastAPI)     │◄──►│   APIs         │
 │                 │    │                 │    │                 │
 │ • File Tree     │    │ • GitHub API    │    │ • GitHub API   │
-│ • Test Gen UI   │    │ • AI Service    │    │ • OpenRouter   │
+│ • Test Gen UI   │    │ • AI Service    │    │ • Gemini API   │
 │ • Responsive    │    │ • File Analysis │    │ • AI Models    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
@@ -230,5 +230,6 @@ npm start
 ```
 
 ## 📝 License
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
